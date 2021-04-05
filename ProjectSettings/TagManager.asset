@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Title
+    uniqueID: 440639233
+    locked: 0
+  - name: Background
+    uniqueID: 2442888839
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: RoboBlack
+    uniqueID: 647817329
+    locked: 0
+  - name: Robo
+    uniqueID: 3205139009
+    locked: 0
+  - name: blackRobot
+    uniqueID: 177047183
+    locked: 0
+  - name: robot
+    uniqueID: 2090664489
+    locked: 0

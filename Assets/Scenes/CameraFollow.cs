@@ -1,0 +1,23 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CameraFollow : MonoBehaviour
+{
+    public Transform target;
+    public Vector3 cameraOffset;
+    public float followSpeed = 10f;
+   // public float xMin = 0f;
+    //Vector3 velocity = Vector3.zero;
+
+
+    void FixedUpdate()
+    {
+        
+    }
+
+    private void LateUpdate()
+    {
+        transform.position = target.position + cameraOffset;
+    }
+}
